@@ -48,23 +48,23 @@ This repository contains all the tasks completed as part of the CT&DT course. Ea
   Prepare Empathy Process flow as flowchart.
   
 * **Task 12: Analytical thinking design by design thinking**
-- Conducted user research
-- Created persona & journey map
+  Conducted user research
+  Created persona & journey map
 
 * **Task 13: Waterfall Model**
-Designed product development lifecycle using waterfall model.
+  Designed product development lifecycle using waterfall model.
 
 * **Task 14: Agile Board**
-Created Agile Kanban board for product workflow.
+  Created Agile Kanban board for product workflow.
 
 * **Task 15: Design Thinking Board**
-Solved ambiguous problem using design thinking approach.
+  Solved ambiguous problem using design thinking approach.
 
 * **Task 16: Inference Mapping**
   Create inference for mention problem statement
 
 * **Task 17: Figma Prototype**
-Developed UI/UX prototype for AI Smart Fridge app.
+  Developed UI/UX prototype for AI Smart Fridge app.
 
 ## 🛠 Tools & Technologies Used
 
