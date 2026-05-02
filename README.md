@@ -22,8 +22,6 @@ This repository contains all the tasks completed as part of the CT&DT course. Ea
 
 * **Task 3 – Product Configurator Flowchart**
   Flowchart representing the working of a product configurator system.
-  [Your Link Here](https://lucid.app/lucidchart/e5692199-d29d-44fb-a4f1-e5c85f237a86/edit?invitationId=inv_9b16ab8d-25b1-4dd4-a3bc-32bfee22be69)
-
 
 * **Task 4 – User Persona**
   Creation of a detailed user persona including demographics, goals, behavior, and pain points.
