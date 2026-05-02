@@ -63,7 +63,7 @@ Solved ambiguous problem using design thinking approach.
 * **Task 16: Inference Mapping**
   Create inference for mention problem statement
 
-* **Task 7: Figma Prototype**
+* **Task 17: Figma Prototype**
 Developed UI/UX prototype for AI Smart Fridge app.
 
 ## 🛠 Tools & Technologies Used
